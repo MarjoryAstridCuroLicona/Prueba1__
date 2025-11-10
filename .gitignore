@@ -1,0 +1,25 @@
+# Archivos del entorno de Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Carpetas de compilación
+bin/
+obj/
+Debug/
+Release/
+
+# Archivos temporales
+*.log
+*.tmp
+*.bak
+
+# Archivos del sistema
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Configuración de usuario de Visual Studio Code
+.vscode/
